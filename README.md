@@ -1,6 +1,6 @@
 # Diagnostics project
 
-An edit.
+An edit. An edit of the edit.
 
 Scripts go in the `scripts` directory.
 
